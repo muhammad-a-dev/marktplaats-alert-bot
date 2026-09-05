@@ -1,0 +1,20 @@
+# Secrets - never commit these
+userFiles/token.txt
+userFiles/proxy.txt
+
+# Live data
+userFiles/users.json
+userFiles/admins.txt
+userFiles/alert-admins.txt
+userFiles/already-done.txt
+userFiles/searched-before.txt
+userFiles/excluded-users.txt
+userFiles/excluded-keywords.txt
+
+# Runtime
+logs/
+__pycache__/
+*.pyc
+.deps-installed
+.venv/
+venv/
