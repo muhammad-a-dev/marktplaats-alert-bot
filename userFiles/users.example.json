@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Example User",
+        "license-code": "ExAmPle#Code",
+        "discord-id": 123456789012345678,
+        "discord-username": "exampleuser",
+        "activated": true,
+        "listings": [
+            {
+                "id": "aBcD1234EfGh",
+                "product": "iPhone 15 Pro",
+                "distance-range": "80",
+                "postal-code": "1011AB",
+                "min-price": "200",
+                "max-price": "450",
+                "seller-account-age": 2
+            }
+        ]
+    }
+]
